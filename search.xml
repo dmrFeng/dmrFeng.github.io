@@ -4,12 +4,43 @@
   
     
     <entry>
+      <title>食指-相信未来</title>
+      <link href="/2019/08/24/xiangxinweilai-shizhi/"/>
+      <url>/2019/08/24/xiangxinweilai-shizhi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="相信未来"><a href="#相信未来" class="headerlink" title="相信未来"></a><strong>相信未来</strong></h1><p><strong>当蜘蛛网无情地查封了我的炉台，</strong><br><strong>当灰烬的余烟叹息着贫困的悲哀，</strong><br><strong>我依然固执地铺平失望的灰烬，</strong><br><strong>用美丽的雪花写下：相信未来。</strong></p><p><strong>当我的紫葡萄化为深秋的露水，</strong><br><strong>当我的鲜花依偎在别人的情怀，</strong><br><strong>我依然固执地用凝霜的枯藤，</strong><br><strong>在凄凉的大地上写下：相信未来。</strong></p><p><strong>我要用手指那涌向天边的排浪，</strong><br><strong>我要用手掌 那托起太阳的大海，</strong><br><strong>摇曳着曙光那支温暖漂亮的笔杆，</strong><br><strong>用孩子的笔体写下：相信未来。</strong></p><p><strong>我之所以坚定地相信未来，</strong><br><strong>是我相信未来人们的眼睛 —</strong><br><strong>她有拨开历史风尘的睫毛，</strong><br><strong>她有看透岁月篇章的瞳孔。</strong></p><p><strong>不管人们对于我们腐烂的皮肉，</strong><br><strong>那些迷途的惆怅，失败的苦痛，</strong><br><strong>是寄予感动的热泪，深切的同情，</strong><br><strong>还是给以轻蔑的微笑，辛辣的嘲讽。</strong></p><p><strong>我坚信人们对于我们的脊骨，</strong><br><strong>那无数次地探索、迷途、失败和成功，</strong><br><strong>一定会给予热情、客观、公正的评定，</strong><br><strong>是的，我焦急地等待着他们的评定。</strong></p><p><strong>朋友，坚定地相信未来吧，</strong><br><strong>相信不屈不挠的努力，</strong><br><strong>相信战胜死亡的年轻，</strong><br><strong>相信未来，热爱生命！</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 文章 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 诗词 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
-      <link href="/2019/08/14/hello-world/"/>
-      <url>/2019/08/14/hello-world/</url>
+      <link href="/2019/08/24/hello-world/"/>
+      <url>/2019/08/24/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
       
+      
+      <categories>
+          
+          <category> Hexo入门 </category>
+          
+      </categories>
       
       
     </entry>
